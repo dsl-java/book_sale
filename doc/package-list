@@ -1,0 +1,10 @@
+cn.dsl.dao
+cn.dsl.dao.impl
+cn.dsl.dbc
+cn.dsl.factory
+cn.dsl.junit
+cn.dsl.service
+cn.dsl.service.impl
+cn.dsl.util
+cn.dsl.view
+cn.dsl.vo
